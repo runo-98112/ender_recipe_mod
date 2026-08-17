@@ -40,5 +40,5 @@ This repository acts as a multi-version source hub. Inside each folder, you can 
 ## ⚠️ Notes & Policies
 * **Installation**: For multiplayer, this mod must be installed on **both the Client and Server sides** to ensure your in-game recipe book displays the textures correctly.
 * **License & Anti-Plagiarism Policy**: 
-  This project is licensed under **CC-BY-NC-SA-4.0**. You are free to include this mod in any modpack, provided it is for non-commercial use and clearly credits the author (**Runo98112**).
+  This project is licensed under **CC-BY-NC-SA-4.0**. You are free to include this mod in any modpack, provided it is for non-commercial use and clearly credits the author (**Runo98112 or runo-98112**).
   However, **impersonating the author, re-uploading this source code under a false identity, or falsely claiming ownership of this project is strictly prohibited under any circumstances.** Any copyright infringement or unauthorized re-distribution without proper attribution will be reported immediately to GitHub and Modrinth for permanent removal.
