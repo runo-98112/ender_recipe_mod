@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "FBF",
+    "BEB",
+    "WWW"
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "W": {
+      "item": "minecraft:warped_roots"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "B": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "result": {
+    "count": 2,
+    "item": "minecraft:ender_pearl"
+  }
+}

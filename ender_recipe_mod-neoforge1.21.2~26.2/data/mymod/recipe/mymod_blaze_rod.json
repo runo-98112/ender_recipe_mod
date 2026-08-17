@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "LGL",
+    "GSG",
+    "RRR"
+  ],
+  "key": {
+    "G": "minecraft:glowstone_dust",
+    "R": "minecraft:crimson_roots",
+    "S": "minecraft:stick",
+    "L": "minecraft:gold_nugget"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:blaze_rod"
+  }
+}

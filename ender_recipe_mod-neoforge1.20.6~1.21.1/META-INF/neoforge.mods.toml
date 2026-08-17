@@ -1,0 +1,17 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="CC-BY-NC-SA-4.0"
+
+[[mods]]
+modId="mymod"
+version="1.0.0"
+displayName="ender recipe mod"
+description="A mod that adds custom recipes for Ender Pearls and Blaze Rods."
+authors="Runo98112"
+
+[[dependencies.mymod]]
+modId="neoforge"
+mandatory=true
+versionRange="[20.6, 21.2)"
+ordering="NONE"
+side="BOTH"

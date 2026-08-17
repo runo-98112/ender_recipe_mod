@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "mymod",
+  "version": "1.0.0",
+  "name": "ender recipe mod",
+  "description": "A mod that adds custom recipes for Ender Pearls and Blaze Rods.",
+  "authors": [ "Runo98112" ],
+  "contact": {},
+  "license": "CC-BY-NC-SA-4.0",
+  "icon": "assets/mymod/icon.png",
+  "environment": "*",
+  "entrypoints": {},
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.11.0",
+    "minecraft": ">=1.17 <=1.20.5"
+  },
+  "custom": {
+    "fabric:data_driven": true
+  }
+}
