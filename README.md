@@ -1,5 +1,5 @@
-# ender_recipe_mod
-A simple Minecraft mod that adds logical vanilla crafting recipes for Blaze Rods and Ender Pearls.
+# ender_recipe
+A simple Minecraft mod and addon that adds logical vanilla crafting recipes for Blaze Rods and Ender Pearls.
 
 ---
 
