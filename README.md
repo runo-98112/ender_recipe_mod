@@ -7,7 +7,6 @@ A simple Minecraft mod and addon that adds logical vanilla crafting recipes for 
 If you prefer a verified platform for downloading, this mod is also available on Modrinth! It undergoes strict safety checks and official mod moderation. 
 
 👉 **[View Project on Modrinth (Safe & Verified Download)](https://modrinth.com/project/4TupUDe2)**
-*(Note: Currently under Modrinth review!)*
 
 ---
 
